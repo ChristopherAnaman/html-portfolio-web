@@ -1,0 +1,10 @@
+html {
+  font-family:;
+}
+
+.hero-image {
+  width: 250px;
+  margin-top: 45px;
+  border-radius: 20px;
+  height: 250px;
+}
